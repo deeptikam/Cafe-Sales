@@ -1,2 +1,3 @@
-# Cafe-Sales
-Data Analysis, SQL, SQLite, Pandas, Data Cleaning
+# Cafe Sales SQL Project
+Topics: Data Analysis, SQL, SQLite, Pandas, Data Cleaning
+

@@ -2,6 +2,7 @@
 Topics: SQL, SQLite, Data Analysis, Data Cleaning, Database Design
 
 This project demonstrates transforming raw sales data into a clean, structured, and queryable relational database. It includes data cleaning, normalization into 3NF, schema design, data insertion with Pandas, and SQL queries. 
+Raw data from: https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training?resource=download
 
 --ERD Diagram-------------------------------------
 
@@ -21,4 +22,4 @@ In order to create my database tables, I used both Pandas and SQL. I used SQL to
 
 --Queries-------------------------------------
 
-I came up with 10 different questions to write queries for to demonstrate aggregate functions, joins, grouping, and more. I wrote each question keeping in mind what the data could be used for in the real world. 
+I came up with 10 different questions to write queries for to demonstrate aggregate functions, joins, grouping, and more. I wrote each question keeping in mind what the data could be used for in the real world. View query results in 'Cafe Sales Query Results.pdf'

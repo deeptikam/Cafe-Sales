@@ -5,7 +5,7 @@ This project demonstrates transforming raw sales data into a clean, structured, 
 
 --ERD Diagram-------------------------------------
 
-The original data (dirty_cafe_sales.csv) was a flat, unnormalized table. In order to achieve 3NF within the data, I constructed an ERD Diagram (ERD Diagram.PNG) showcasing the different connections within the data through separate tables and keys, involving both cardianlity and modality, key relationships, and data types.
+The original data (dirty_cafe_sales.csv) was a flat, unnormalized table. In order to achieve 3NF within the data, I constructed an ERD Diagram (ERD Diagram.PNG) showcasing the different connections within the data through separate tables and keys, involving both cardinality and modality, key relationships, and data types.
 
 --Data Dictionary-------------------------------------
 
